@@ -6,3 +6,4 @@ My color-generator project
 - Flexbox
 - Vanilla JS
 
+[Live View](https://ki-color-generator.netlify.app/)
